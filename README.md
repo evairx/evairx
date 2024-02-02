@@ -3,7 +3,7 @@
     <img src="https://avatars.githubusercontent.com/u/111150560?v=4" width="64px" height="64px"/>
 </div>
 
-# <div align="center">Hola, soy evarix!</div>
+# <div align="center">Hi, I'm evarix!</div>
 
 <h3 align="center">About me:</h3>
 
